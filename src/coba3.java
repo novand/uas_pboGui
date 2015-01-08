@@ -39,7 +39,7 @@ public class coba3 extends JFrame {
 		contentPane.setLayout(null);
 		
 		JLabel lblNewLabel = new JLabel("New label");
-		lblNewLabel.setBounds(64, 60, 46, 14);
+		lblNewLabel.setBounds(64, 60, 82, 14);
 		contentPane.add(lblNewLabel);
 	}
 
